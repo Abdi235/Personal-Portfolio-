@@ -13,7 +13,7 @@ body {
     padding: 0;
     font-size: 100%;
     line-height: 1.5;
-    color: #555;
+    color: black;
     font-family: 'Nunito Sans', sans-serif
 }
 /* Your existing CSS styles */
@@ -4895,7 +4895,7 @@ a img {
     font-size: 20px;
     display: block;
     line-height: 1;
-    color: #fff;
+    color:black;
     margin-top: 10px
 }
 
